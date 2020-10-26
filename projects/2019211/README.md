@@ -65,3 +65,11 @@
 Άσκηση: Τροποποιήστε το παράδειγμα προσθέτοντας ένα ακόμα κελί στη φόρμα. Το νέο κελί πρέπει να έχει προεπιλεγμένη τιμή "Gender" και οι διαθέσιμες επιλογές να είναι "Male","Female". Τοποθετείστε το κελί όπου εσείς θέλετε μέσα στο υπάρχον box.
 
 Οι τροποποιήσεις που πραγματοποίησα για την επίλυση της άσκησης θα τις βρείτε κάνοντας κλικ [εδω](https://codepen.io/2019211/pen/xxOOMoP)
+
+Παραδοτέο 3
+
+Από τις ασκήσεις οι οποίες απαιτούν την χρήση γραμμής εντολών, επέλεξα την άσκηση της οποίας η εκφώνηση έχει ως έξης:
+Set-up the main dependencies and demonstrate your base system:1)Change your command prompt with your student ID,2)list your dot files,
+3)display your shell configuration file and 4)display your system information (hardware+software).Προκειμένου να πραγματοποιήσω την άσκηση 
+ενεργοποίσα στο σύστημα μου την δυνατότητα Windows Linux Sub System και χρησιμοποίσα το λογισμικό Ubuntu 20.04.Για την λύση της άσκησης 
+κάντε κλικ [εδώ](https://asciinema.org/a/p7xcHNR8EHOFQmUygvzvQRCA4).
