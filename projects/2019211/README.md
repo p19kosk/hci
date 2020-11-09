@@ -97,7 +97,7 @@ Set-up the main dependencies and demonstrate your base system:1)Change your comm
 
 Η άσκηση γραμμής εντολών που επέλεξα για το 5ο παραδοτέο έιναι η εξής:
 
-Get familiar with basic commands, reading documentation and editing files:Browse and view files on your system.
+Τext editor and plug-ins for code highlighting and autocompletion:Edit the vim or the shell configuration file.
 
 Η άσκηση αυτή πραγματοποιήθηκε σε Linux Terminal με τη χρήση ενός Virtual Machine και του λογισμικού Ubuntu.Χρησιμοποιώντας τις κατάλληλες εντολές που θα δείτε στο βίντεο,καθώς  και τον editor Vim τροποποίησα το περιεχόμενο ενός υπάρχων αρχείου.Όλα αυτά καταγράφηκαν με το λογισμικό Asciinema.Την λύση της άσκησης θα την δείτε κάνοντας κλικ [εδώ](https://asciinema.org/a/Qc9tMb3KWfJRqeyZnKauhZ5ZZ).
 
